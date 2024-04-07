@@ -12,7 +12,7 @@
 
 # Education
 BS, Computer Science, California State University, Sacramento
-GPA: 3.8 (Dean's Honors List)
+GPA: 3.74 (Dean's Honors List)
 Expected Graduation: Summer 2024
 
 # Skills
@@ -50,17 +50,69 @@ Expected Graduation: Summer 2024
 -----------------------------------------------------------------------------------------------------------------
 
 # Experience
-- Data Analyst Intern, DMV, Sacramento
-- Student Data Analyst, CSU Sacramento
-- Computer Science Tutor, CSU Sacramento
-- Supplemental Instructor of Computer Science, CSU Sacramento
+- **Data Analyst Intern, DMV, Sacramento**
+    - Organized autonomous vehicles dataset with 250+ SQL entries, enhancing database management efficiency.
+    - Developed Tableau dashboards for visuals, effectively presenting insights of vehicles crash patterns to stakeholders.
+    - Utilized EDA to examine vehicle’s crashes, resulting in 30% decrease in similar incidents over past six months.
+    - Managed projects following SDLC principles, ensuring timely deployments showcasing effective project management.
+
+- **Student Data Analyst, CSU Sacramento**
+    - Directed a thorough Excel based data clean-up for university datasets, boosting decision making accuracy by 25%.
+    - Utilized Tableau and Power BI for advanced data visualization & interactive dashboards, boosting strategic initiatives.
+    - Executed data manipulation strategies with SQL, streamlining ETL workflows to increase efficiency in data analysis
+
+- **Computer Science Tutor, CSU Sacramento**
+  - Tutoring all computer science courses listed under Sac State CSC catalogue (Lower Division).
+  - Helping students with their questions related to Java, C, SQL, Data Structures & Algorithms, and reaching their academic goals.
+  - Digitally marketing tutoring services to help the maximum Computer Science population.
+ 
+
+- **Supplemental Instructor of Computer Science, CSU Sacramento**
+  - Use data visualization tools to create charts and graphs to help identify trends and patterns in student performance data.
+  - Analyze data related to student performance and engagement, such as attendance records, quiz or exam scores, and feedback from students, to identify areas where additional support may be needed.
+  - Planning and teaching (Programming Concepts and Methods) two 60-minute SI classes for Java each week based on the Kansas City SI model.
+  - Maintaining instructional materials online and helping students learn Java efficiently by practicing problems in every Lecture Session.
+  - Creating challenging worksheets to help students in practicing Java.
 
 # Projects
-- Content Recommendation System: https://github.com/pprachi15/recommendation-system.git
-- Real-Time Chat: https://github.com/pprachi15/chatbot.git
-- Supermarket Sales Analysis: https://github.com/pprachi15/Supermarket_Sales_DA.git
-- Credit Risk modeling: **link coming soon**
-- Fraud Detection: **link coming soon**
+
+**Technology/Software:**
+
+- [x] Content Recommendation System  (https://github.com/pprachi15/recommendation-app.git)
+- [ ] Supermarket Sales Analysis (https://github.com/pprachi15/Supermarket_Sales_DA.git)
+- [ ] Loan Status Prediction 
+- [ ] COVID-19 Data Analysis
+- [ ] Content Recommendation System
+
+**Healthcare/Pharmaceutical:**
+
+- [ ] Bioinformatics Drug Discovery 
+- [ ] Health Insurance Cost Prediction 
+- [ ] COVID-19 Data Analysis
+- [ ] Flu Shot Dashboard
+- [ ] Healthcare Analysis Dashboard
+                                                                      
+
+**Retail/E-commerce:**
+
+- [ ] Customer Lifetime Value Prediction 
+- [ ] Supermarket Sales Analytics 
+- [ ] Customer Analysis Dashboard 
+- [ ] Inventory Management System 
+- [ ] E-commerce Sales Dashboard 
+
+**Finance/Banking:**
+
+- [ ] Loan Status Prediction 
+- [ ] Credit Card Fraud Detection 
+- [ ] Bank Loan Analysis 
+- [ ] Supermarket Sales Analysis 
+
+**School Projects**
+- [x] Real-time Chat Application (https://github.com/pprachi15/chatbot.git)
+- [x] AI Hackathon (https://github.com/AdibaAdi/AI_hackathon-Scholarly-App.git)
+- [x] Basic Java Practice (https://github.com/pprachi15/basic_practice.git)
+- [x] Fully Functional Pool Cleaner App (https://github.com/brandenmnguyen/YoshiPoolCleaning.git)
 
 # Certifications
 - Python Bootcamp (Udemy)
