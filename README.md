@@ -46,6 +46,7 @@ Expected Graduation: Summer 2024
 - Data Analyst Intern, DMV, Sacramento
 - Student Data Analyst, CSU Sacramento
 - Computer Science Tutor, CSU Sacramento
+- Supplemental Instructor of Computer Science, CSU Sacramento
 
 # Projects
 - Content Recommendation System: https://github.com/pprachi15/recommendation-system.git
