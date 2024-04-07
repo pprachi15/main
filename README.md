@@ -2,37 +2,68 @@
 Author: Prachi (Preferred Name: Eva)
 LinkedIn: https://www.linkedin.com/in/prachi-datawhisperer/
 
-Education
+# Education
 BS, Computer Science, California State University, Sacramento
 GPA: 3.8
 Expected Graduation: Summer 2024
 
-Skills
-- Big Data: Apache Spark, Hadoop
-- Languages: Python, R, SQL
-- Cloud: Azure, AWS, Google Cloud Platform
-- Visualization: Tableau, Power BI, Excel, Alteryx
-- DBMS: MySQL, SQL, Oracle SQL Developer, MongoDB
-- Tools: VS Code, Jupyter Notebook, GitHub
+# Skills
+- Technical: SQL/ETL, Tableau, MySQL, NumPy, Jira, Python, Power BI, Jupyter, Pandas, BigQuery, Excel/Google Sheets, Oracle Database, Apache Spark, Matplotlib, Microsoft Azure.
+- Professional: Critical Thinking, Communication, Problem Solving, Data Visualization, Data Modeling, Attention to Detail, Presentation Skills, Project Management, Data Warehousing, Data Storytelling, Analytical Thinking.
 
-Experience
+
+
+<img src="https://github.com/pprachi15/introduction/assets/116032314/650fefe9-040d-4264-9199-339819740bb0" width="100" height="100" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/0c174aef-f793-4a52-8b80-ceb431cf0cfa" width="100" height="100" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/07564aff-efc3-4769-b650-9bec3f1b6d7d" width="100" height="100" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/0966de8a-4ee7-4539-87a3-b80197160a75" width="100" height="100" /> 
+<img src="https://github.com/pprachi15/introduction/assets/116032314/e70dc311-653e-4ac9-959a-90928f93bfe3" width="90" height="90" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/56f96a52-a170-4115-8190-ef2293f2375c" width="90" height="90" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/33163099-5606-4632-88d2-cfc725711a0f" width="70" height="100" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/9aa145e2-14a1-4621-b4f2-1b6ff67791e1" width="200" height="100" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/6265e510-57bb-486f-8f17-179a471ff629" width="100" height="-200" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/2c916963-92cc-48a3-89f6-1cb01caa2329" width="150" height="70" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/b3c19589-2952-46de-80f3-fae7edd2c316" width="90" height="100" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/371d7bd2-cd54-4806-a3c7-d68030ee562f" width="100" height="100" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/0d749af4-5a7f-43e7-8df9-4e605912dec5" width="100" height="100" />
+
+<img src="https://github.com/pprachi15/introduction/assets/116032314/d1ebfe9a-1371-4c59-8088-dbef9e8a3d17" width="90" height="90" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/d5b9b8d2-f64d-4d44-a3ca-b86639a80ab6" width="90" height="90" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/62c0a0b6-dfc5-4971-8707-e04d85d273ff" width="80" height="80" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/c68a5649-9860-4214-a057-550ffae90bb1" width="100" height="100" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/423d8cbf-6ad6-4e14-b75f-c5ff7485b360" width="70" height="70" />
+
+<img src="https://github.com/pprachi15/introduction/assets/116032314/7f1324a8-6ee3-444d-a102-e977e5aff733" width="80" height="80" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/86cc04c7-f16c-4447-8890-898574556d70" width="80" height="80" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/363223d3-ba8f-4f0a-9b8f-3185342bedb7" width="80" height="80" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/5898fee2-4481-41b6-9a2b-dc7a6a124b80" width="90" height="90" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/99d551d4-47eb-47b5-9f4d-d694506bd241" width="70" height="90" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/431cd6af-5806-442b-b46f-4c6d025ff4e3" width="90" height="90" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/b0e07582-c3e3-43bf-9cd4-3e8b56c24b4f" width="90" height="90" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/38f15304-b31f-4343-87a6-d75fe97d071c" width="90" height="90" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/7b46ae33-acdf-4e06-8e26-e530da1f9133" width="70" height="70" />
+<img src="https://github.com/pprachi15/introduction/assets/116032314/5884efd1-99a0-41e3-b4ac-f92bec7ad40f" width="70" height="70" />
+
+-----------------------------------------------------------------------------------------------------------------
+
+# Experience
 - Data Analyst Intern, DMV, Sacramento
 - Student Data Analyst, CSU Sacramento
 - Computer Science Tutor, CSU Sacramento
 
-Projects
+# Projects
 - Content Recommendation System: https://github.com/pprachi15/recommendation-system.git
 - Real-Time Chat: https://github.com/pprachi15/chatbot.git
 - Credit Risk modeling: **link coming soon**
 - Fraud Detection: **link coming soon**
 
-Certifications
+# Certifications
 - Python Bootcamp (Udemy)
 - Google Advanced Data Analytics
-- R Programming (JHU)
 
-Community
-- President, Society of Women Engineers
+# Community Involvement
+- Recipient of Computer Science scholarships recognized for excellent academic and co-curricular performances
+- President, Society of Women Engineers: Empowered women engineers, fostering diversity and excellence in STEM.
 
 Connect for collaborations or opportunities!
 <!---
