@@ -1,10 +1,18 @@
 
-Author: Prachi (Preferred Name: Eva)
-LinkedIn: https://www.linkedin.com/in/prachi-datawhisperer/
+**Author:** Prachi (Preferred Name: Eva)
+
+**LinkedIn:** https://www.linkedin.com/in/prachi-datawhisperer/
+
+**Summary:** Insight-driven specialist proficient in analyzing and visualizing data, extracts insights to drive meaningful decisions.
+
+**Specializations:** ETL, EDA, Data Storytelling, Quality Assurance, Dashboarding, Trend Analysis & Stakeholder Management.
+
+-----------------------------------------------------------------------------------------------------------------
+
 
 # Education
 BS, Computer Science, California State University, Sacramento
-GPA: 3.8
+GPA: 3.8 (Dean's Honors List)
 Expected Graduation: Summer 2024
 
 # Skills
@@ -63,7 +71,7 @@ Expected Graduation: Summer 2024
 - Recipient of Computer Science scholarships recognized for excellent academic and co-curricular performances
 - President, Society of Women Engineers: Empowered women engineers, fostering diversity and excellence in STEM.
 
-Connect for collaborations or opportunities!
+Please feel free to follow or connect for collaborations or exciting opportunities!
 <!---
 pprachi15/pprachi15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
