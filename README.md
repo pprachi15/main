@@ -74,6 +74,7 @@ Expected Graduation: Summer 2024
   - Maintaining instructional materials online and helping students learn Java efficiently by practicing problems in every Lecture Session.
   - Creating challenging worksheets to help students in practicing Java.
 
+-----------------------------------------------------------------------------------------------------------------
 # Projects
 
 **Technology/Software:**
@@ -113,6 +114,8 @@ Expected Graduation: Summer 2024
 - [x] AI Hackathon (https://github.com/AdibaAdi/AI_hackathon-Scholarly-App.git)
 - [x] Basic Java Practice (https://github.com/pprachi15/basic_practice.git)
 - [x] Fully Functional Pool Cleaner App (https://github.com/brandenmnguyen/YoshiPoolCleaning.git)
+
+-----------------------------------------------------------------------------------------------------------------
 
 # Certifications
 - Python Bootcamp (Udemy)
