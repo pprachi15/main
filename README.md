@@ -36,7 +36,6 @@ Expected Graduation: Summer 2024
 <img src="https://github.com/pprachi15/introduction/assets/116032314/d5b9b8d2-f64d-4d44-a3ca-b86639a80ab6" width="90" height="90" />        <!-- NumPy -->
 <img src="https://github.com/pprachi15/introduction/assets/116032314/62c0a0b6-dfc5-4971-8707-e04d85d273ff" width="80" height="80" />        <!-- Matplotlib -->
 <img src="https://github.com/pprachi15/introduction/assets/116032314/c68a5649-9860-4214-a057-550ffae90bb1" width="80" height="80" />      <!-- MySQL -->
-<img src="https://github.com/pprachi15/introduction/assets/116032314/423d8cbf-6ad6-4e14-b75f-c5ff7485b360" width="70" height="70" />        <!-- Linux -->
 <img src="https://github.com/pprachi15/introduction/assets/116032314/7f1324a8-6ee3-444d-a102-e977e5aff733" width="80" height="80" />        <!-- MS Azure -->
 <img src="https://github.com/pprachi15/introduction/assets/116032314/86cc04c7-f16c-4447-8890-898574556d70" width="80" height="80" />        <!-- Google Cloud -->
 <img src="https://github.com/pprachi15/introduction/assets/116032314/363223d3-ba8f-4f0a-9b8f-3185342bedb7" width="80" height="80" />        <!-- Jira -->
