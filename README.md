@@ -10,12 +10,12 @@
 -----------------------------------------------------------------------------------------------------------------
 
 
-# Education
-BS, Computer Science, California State University, Sacramento
-GPA: 3.74 (Dean's Honors List)
-Expected Graduation: Summer 2024
+## Education
+- BS, Computer Science, California State University, Sacramento
+- GPA: 3.74 (Dean's Honors List)
+- Expected Graduation: Summer 2024
 
-# Skills
+## Skills
 - Technical: SQL/ETL, Tableau, MySQL, NumPy, Jira, Python, Power BI, Jupyter, Pandas, BigQuery, Excel/Google Sheets, Oracle Database, Apache Spark, Matplotlib, Microsoft Azure.
 - Professional: Critical Thinking, Communication, Problem Solving, Data Visualization, Data Modeling, Attention to Detail, Presentation Skills, Project Management, Data Warehousing, Data Storytelling, Analytical Thinking.
 
@@ -49,7 +49,7 @@ Expected Graduation: Summer 2024
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Experience
+## Experience
 - **Data Analyst Intern, DMV, Sacramento**
     - Organized autonomous vehicles dataset with 250+ SQL entries, enhancing database management efficiency.
     - Developed Tableau dashboards for visuals, effectively presenting insights of vehicles crash patterns to stakeholders.
@@ -69,13 +69,13 @@ Expected Graduation: Summer 2024
 
 - **Supplemental Instructor of Computer Science, CSU Sacramento**
   - Use data visualization tools to create charts and graphs to help identify trends and patterns in student performance data.
-  - Analyze data related to student performance and engagement, such as attendance records, quiz or exam scores, and feedback from students, to identify areas where additional support may be needed.
+  - Analyze data related to student performance and engagement, to identify areas where additional support may be needed.
   - Planning and teaching (Programming Concepts and Methods) two 60-minute SI classes for Java each week based on the Kansas City SI model.
   - Maintaining instructional materials online and helping students learn Java efficiently by practicing problems in every Lecture Session.
   - Creating challenging worksheets to help students in practicing Java.
 
 -----------------------------------------------------------------------------------------------------------------
-# Projects
+## Project Portfolio
 
 **Technology/Software:**
 
@@ -117,11 +117,11 @@ Expected Graduation: Summer 2024
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Certifications
+## Certifications
 - Python Bootcamp (Udemy)
 - Google Advanced Data Analytics
 
-# Community Involvement
+## Community Involvement
 - Recipient of Computer Science scholarships recognized for excellent academic and co-curricular performances
 - President, Society of Women Engineers: Empowered women engineers, fostering diversity and excellence in STEM.
 
