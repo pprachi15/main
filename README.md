@@ -56,7 +56,7 @@
     - Utilized EDA to examine vehicle’s crashes, resulting in 30% decrease in similar incidents over past six months.
     - Managed projects following SDLC principles, ensuring timely deployments showcasing effective project management.
 
-- **Student Data Analyst, CSU Sacramento**
+- **Data Analyst Assistant, CSU Sacramento**
     - Directed a thorough Excel based data clean-up for university datasets, boosting decision making accuracy by 25%.
     - Utilized Tableau and Power BI for advanced data visualization & interactive dashboards, boosting strategic initiatives.
     - Executed data manipulation strategies with SQL, streamlining ETL workflows to increase efficiency in data analysis
@@ -73,6 +73,11 @@
   - Planning and teaching (Programming Concepts and Methods) two 60-minute SI classes for Java each week based on the Kansas City SI model.
   - Maintaining instructional materials online and helping students learn Java efficiently by practicing problems in every Lecture Session.
   - Creating challenging worksheets to help students in practicing Java.
+
+- **Computer Science Tutor, CSU Sacramento**
+    - Tutoring all computer science courses listed under lower divsion course section of sac state catalogue.
+    - Helping students with their questions related to Java, C, SQL, Data Structures & Algorithms, and reaching their academic goals.
+    - Digitally marketing tutoring services to help the maximum Computer Science population.
 
 -----------------------------------------------------------------------------------------------------------------
 ## Project Portfolio
