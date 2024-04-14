@@ -65,7 +65,6 @@
   - Tutoring all computer science courses listed under Sac State CSC catalogue (Lower Division).
   - Helping students with their questions related to Java, C, SQL, Data Structures & Algorithms, and reaching their academic goals.
   - Digitally marketing tutoring services to help the maximum Computer Science population.
- 
 
 - **Supplemental Instructor of Computer Science, CSU Sacramento**
   - Use data visualization tools to create charts and graphs to help identify trends and patterns in student performance data.
@@ -74,15 +73,10 @@
   - Maintaining instructional materials online and helping students learn Java efficiently by practicing problems in every Lecture Session.
   - Creating challenging worksheets to help students in practicing Java.
 
-- **Computer Science Tutor, CSU Sacramento**
-    - Tutoring all computer science courses listed under lower divsion course section of sac state catalogue.
-    - Helping students with their questions related to Java, C, SQL, Data Structures & Algorithms, and reaching their academic goals.
-    - Digitally marketing tutoring services to help the maximum Computer Science population.
-
 -----------------------------------------------------------------------------------------------------------------
 ## Project Portfolio
 
-**Technology/Software:**
+**Personal Projects:**
 
 - [x] Content Recommendation System  (https://github.com/pprachi15/recommendation-app.git)
 - [x] Supermarket Sales Analysis (https://github.com/pprachi15/Supermarket.Sales.DA.git)
@@ -99,7 +93,7 @@
 - [ ] Credit Card Fraud Detection 
 - [ ] Bank Loan Analysis 
 
-**School Projects**
+**School Projects:**
 - [x] Real-time Chat Application (https://github.com/pprachi15/chatbot.git)
 - [x] AI Hackathon (https://github.com/AdibaAdi/AI_hackathon-Scholarly-App.git)
 - [x] Basic Java Practice (https://github.com/pprachi15/basic_practice.git)
