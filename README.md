@@ -85,34 +85,19 @@
 **Technology/Software:**
 
 - [x] Content Recommendation System  (https://github.com/pprachi15/recommendation-app.git)
-- [ ] Supermarket Sales Analysis (https://github.com/pprachi15/Supermarket_Sales_DA.git)
+- [x] Supermarket Sales Analysis (https://github.com/pprachi15/Supermarket.Sales.DA.git)
 - [ ] Loan Status Prediction 
 - [ ] COVID-19 Data Analysis
-- [ ] Content Recommendation System
-
-**Healthcare/Pharmaceutical:**
-
 - [ ] Bioinformatics Drug Discovery 
 - [ ] Health Insurance Cost Prediction 
-- [ ] COVID-19 Data Analysis
 - [ ] Flu Shot Dashboard
 - [ ] Healthcare Analysis Dashboard
-                                                                      
-
-**Retail/E-commerce:**
-
 - [ ] Customer Lifetime Value Prediction 
-- [ ] Supermarket Sales Analytics 
 - [ ] Customer Analysis Dashboard 
 - [ ] Inventory Management System 
 - [ ] E-commerce Sales Dashboard 
-
-**Finance/Banking:**
-
-- [ ] Loan Status Prediction 
 - [ ] Credit Card Fraud Detection 
 - [ ] Bank Loan Analysis 
-- [ ] Supermarket Sales Analysis 
 
 **School Projects**
 - [x] Real-time Chat Application (https://github.com/pprachi15/chatbot.git)
