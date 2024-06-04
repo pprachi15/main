@@ -56,7 +56,7 @@
     - Utilized EDA to examine vehicle’s crashes, resulting in 30% decrease in similar incidents over past six months.
     - Managed projects following SDLC principles, ensuring timely deployments showcasing effective project management.
 
-- **Data Analysis Assistant, CSU Sacramento**
+- **Research Data Analyst, CSU Sacramento**
     - Directed a thorough Excel based data clean-up for university datasets, boosting decision making accuracy by 25%.
     - Utilized Tableau and Power BI for advanced data visualization & interactive dashboards, boosting strategic initiatives.
     - Executed data manipulation strategies with SQL, streamlining ETL workflows to increase efficiency in data analysis
