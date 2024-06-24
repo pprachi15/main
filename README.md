@@ -81,7 +81,7 @@
 - [x] Content Recommendation System  (https://github.com/pprachi15/recommendation-app.git)
 - [x] Supermarket Sales Analysis (https://github.com/pprachi15/Supermarket.Sales.DA.git)
 - [x] Loan Status Prediction (https://github.com/pprachi15/Loan_Status_Prediction.git)
-- [ ] COVID-19 Data Analysis
+- [ ] COVID-19 Data Analysis (https://github.com/pprachi15/COVID-19.Data.Analysis.git)
 - [ ] Bioinformatics Drug Discovery 
 - [ ] Health Insurance Cost Prediction 
 - [ ] Flu Shot Dashboard
