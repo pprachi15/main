@@ -98,6 +98,7 @@
 - [x] AI Hackathon (https://github.com/AdibaAdi/AI_hackathon-Scholarly-App.git)
 - [x] Basic Java Practice (https://github.com/pprachi15/basic_practice.git)
 - [x] Fully Functional Pool Cleaner App (https://github.com/brandenmnguyen/YoshiPoolCleaning.git)
+- [x] Degree planner (https://github.com/pprachi15/degree.planner.git)
 
 -----------------------------------------------------------------------------------------------------------------
 
